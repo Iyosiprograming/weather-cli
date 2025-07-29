@@ -1,6 +1,3 @@
-
-
-````markdown
 # 🌦️ Weather App (CLI) - Python
 
 A simple command-line weather application written in Python. It fetches real-time weather data using the [WeatherAPI](https://www.weatherapi.com/) and displays the current weather, temperature, humidity, wind speed, and more!
@@ -9,10 +6,10 @@ A simple command-line weather application written in Python. It fetches real-tim
 
 ## 🚀 Features
 
-- Get current weather by city name 🌍
-- Displays temperature, humidity, wind speed, and condition ⛅
-- Easy-to-read terminal output with emojis ✨
-- Loads API key securely using `.env` file 🔐
+- Get current weather by city name 🌍  
+- Displays temperature, humidity, wind speed, and condition ⛅  
+- Easy-to-read terminal output with emojis ✨  
+- Loads API key securely using `.env` file 🔐  
 
 ---
 
@@ -26,7 +23,7 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
-````
+```
 
 ---
 
@@ -38,6 +35,7 @@ pip install -r requirements.txt
    ```env
    API_KEY=your_api_key_here
    ```
+
 3. **Run the app:**
 
    ```bash
@@ -65,6 +63,7 @@ Enter the city name: London
 🔆 UV Index: 0.8
 ```
 
+---
 
 ## 📁 File Structure
 
@@ -80,10 +79,14 @@ weather-app/
 
 ---
 
+## 📸 Screenshot
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/767142cc-b22d-4906-a32f-63f59de362ec" />
+:
+
+
+---
+
 ## 📜 License
 
-MIT License © 2025 \[Your Name or GitHub username]
-
-```
-
-
+MIT License © 2025 [Iyosi](https://github.com/Iyosiprograming)
